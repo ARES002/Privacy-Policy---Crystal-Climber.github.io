@@ -41,7 +41,7 @@ We may update this Privacy Policy from time to time. Any changes will be publish
 7. Contact Us
 If you have any questions or concerns regarding this Privacy Policy or your data, please contact us at:
 
-Email: aistudio.crystalclimber@gmail.com
-Developer: AI Studio - Crystal Climber Team
+Email: vimartu@icloud.com
+Developer: Crystal Climber Team
 
 © 2026 Crystal Climber. All Rights Reserved.
