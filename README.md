@@ -29,7 +29,7 @@ In compliance with Google Play's User Data Policy, you have full control over yo
 
 In-App Deletion: You can delete your account and all associated cloud data directly inside the Game:
 Open Settings ➔ Scroll to "Account & Cloud" ➔ Tap "Delete Account & Data" ➔ Confirm.
-Request Deletion via Email: You can also request complete manual deletion of your player profile, cloud records, and purchase history by contacting us at aistudio.crystalclimber@gmail.com with your Player ID.
+Request Deletion via Email: You can also request complete manual deletion of your player profile, cloud records, and purchase history by contacting us at vimartu@icloud.com with your Player ID.
 Upon deletion, all your profile data, high scores, leaderboard entries, and cloud records stored in Cloud Firestore will be permanently erased.
 
 5. Children's Privacy
